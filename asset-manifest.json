@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3109c4d6.chunk.css",
+    "main.js": "/static/js/main.a6a419ab.chunk.js",
+    "main.js.map": "/static/js/main.a6a419ab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a0d7e7d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a0d7e7d.js.map",
+    "static/js/2.6fd59d97.chunk.js": "/static/js/2.6fd59d97.chunk.js",
+    "static/js/2.6fd59d97.chunk.js.map": "/static/js/2.6fd59d97.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.00b1a75679693bf9c60a99303a80b66e.js": "/precache-manifest.00b1a75679693bf9c60a99303a80b66e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3109c4d6.chunk.css.map": "/static/css/main.3109c4d6.chunk.css.map",
+    "static/js/2.6fd59d97.chunk.js.LICENSE": "/static/js/2.6fd59d97.chunk.js.LICENSE",
+    "static/media/logo.png": "/static/media/logo.dbf7907c.png",
+    "static/media/logoBN.png": "/static/media/logoBN.d71d7d13.png",
+    "static/media/logout.png": "/static/media/logout.541b8595.png",
+    "static/media/nuevaReceta.png": "/static/media/nuevaReceta.611ea535.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a0d7e7d.js",
+    "static/js/2.6fd59d97.chunk.js",
+    "static/css/main.3109c4d6.chunk.css",
+    "static/js/main.a6a419ab.chunk.js"
+  ]
+}
